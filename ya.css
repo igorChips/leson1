@@ -1,0 +1,29 @@
+.port{
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    color:#ff0000;
+}
+.igor{
+    width:10%;
+     height:10;
+}
+body{
+    background: linear-gradient(45deg, #1515ff, #ffff00);
+}
+p{
+    color:#ff0000;
+}
+h1{
+    color:#ff0000;
+}
+h2{
+    color:#ff0000;
+}
+ol{
+    color:#ff0000;
+}
+.whatsapp{
+    height:17px;
+}
